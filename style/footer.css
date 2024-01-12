@@ -1,0 +1,39 @@
+*{
+                margin: 0;
+                padding: 0;
+}
+
+.upper-footer{
+                
+                display: flex;
+                justify-content: space-between;
+                background-color: black;
+                color: aliceblue;
+                padding: 10px 20px;
+                height: 200px;
+                align-items: center;
+                font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.social-icon{
+                font-size: 24px;
+                margin-right: 10px;
+                margin-top: 15px;
+}
+.news-input{
+                display: block;
+                height: 30px;
+                width: 80%;
+                border-radius: 2px;
+                border: none;
+                margin: 10px 0px;
+                background-color: bisque;
+}
+.news-submit{
+                display: block;
+                height: 30px;
+                width: 80%;
+                border: none;
+                border-radius: 2px solid black;
+                background-color: darkgreen;
+
+}
